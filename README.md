@@ -1,2 +1,2 @@
 # Carrera-Data-Science
-Resuemn de los desafio y pruebas resueltas de data science
+Resumen de los desafíos de la carrera Data Sciences
